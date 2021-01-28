@@ -1,4 +1,4 @@
-#TwitterRT
+TwitterRT
 ---
 #### Requirement:
 - python3
